@@ -21,4 +21,5 @@
 <script src="<?= base_url('assets/plugins/select2/select2.min.js') ?>"></script>
 <!-- AdminLTE App -->
 <script src="<?= base_url('assets/dist/js/adminlte.js') ?>"></script>
+<script src="<?= base_url('assets/dist/js/custom.js')?>"></script>
 <script src="<?= base_url('assets/dist/js/chart-data.js')?>"></script>

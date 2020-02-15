@@ -1,7 +1,7 @@
 <div class="content">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-3">
                 <label for="reportType">Grafik Laporan</label>
                 <select id="reportType" class="form-control">
                     <option value="bulan_ini">Target Bulan Ini</option>
@@ -12,7 +12,7 @@
                     <option value="persentase_okr">Persentase OKR</option>
                 </select>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-3">
                 <label for="chartType">Chart Type</label>
                 <select id="chartType" class="form-control">
                     <option value="bar">Bar</option>

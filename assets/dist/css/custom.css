@@ -82,3 +82,7 @@
 .card-chart{
   min-height: 70vh;
 }
+
+.outlet-title{
+  line-height: 80px;
+}
